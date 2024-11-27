@@ -1,15 +1,15 @@
 ## Mục Lục
-1. [Template Literals](#template-literals)
-2. [Tagged Template Literals](#tagged-template-literals)
-3. [Arrow Function](#arrow-function)
-4. [Giá trị mặc định của tham số hàm](#giá-trị-mặc-định-của-tham-số-hàm)
-5. [Destructuring Object và Array](#destructuring-object-và-array)
-6. [Tham số hàm](#tham-số-hàm)
-7. [Array Methods: map, filter, reduce](#array-methods-map-filter-reduce)
-8. [Spread Operator và Rest Operator](#spread-operator-và-rest-operator)
-9. [Function Rest Parameter](#function-rest-parameter)
-10. [Object Properties Spreading](#object-properties-spreading)
-11. [Object Property Shorthand](#object-property-shorthand)
+1. [Variables](https://github.com/ttkienn/js-tutorial/blob/main/variable.md)
+1. [Template Literals](https://github.com/ttkienn/js-tutorial/blob/main/template_literals.md)
+3. [Arrow Function](https://github.com/ttkienn/js-tutorial/blob/main/arrow_function.md)
+4. [Giá trị mặc định của tham số hàm](https://github.com/ttkienn/js-tutorial/blob/main/default_parametor.md)
+5. [Destructuring Object và Array](https://github.com/ttkienn/js-tutorial/blob/main/destructuring_object_and_array.md)
+6. [Tham số hàm](https://github.com/ttkienn/js-tutorial/blob/main/function_rest_parametor.md)
+7. [Array Methods: map, filter, reduce](https://github.com/ttkienn/js-tutorial/blob/main/array_methods.md)
+8. [Spread Operator và Rest Operator](https://github.com/ttkienn/js-tutorial/blob/main/spread_operator_and_rest_operator.md)
+9. [Function Rest Parameter](https://github.com/ttkienn/js-tutorial/blob/main/function_rest_parametor.md)
+10. [Object Properties Spreading](https://github.com/ttkienn/js-tutorial/blob/main/object_properties_spreading.md)
+11. [Object Property Shorthand](https://github.com/ttkienn/js-tutorial/blob/main/object_property_shorthand.md)
 
 ---
 
