@@ -8,26 +8,6 @@ Visual Studio Code (VS Code) là một trong những IDE phổ biến nhất cho
   1. Tải về Visual Studio Code tại: [https://code.visualstudio.com/](https://code.visualstudio.com/).
   2. Cài đặt và mở VS Code.
 
-- **Cài đặt tiện ích mở rộng (Extension) cho JavaScript:**
-  1. Mở VS Code và vào phần Extensions (hoặc nhấn `Ctrl+Shift+X`).
-  2. Tìm kiếm và cài đặt các tiện ích như `ESLint`, `Prettier`, hoặc `JavaScript (ES6)` để hỗ trợ viết mã dễ dàng hơn.
-
-### 2. **WebStorm**
-
-WebStorm là một IDE mạnh mẽ của JetBrains dành cho phát triển JavaScript, với nhiều tính năng hữu ích như gợi ý mã, kiểm tra lỗi và hỗ trợ framework.
-
-- **Cài đặt:**
-  1. Tải về WebStorm tại: [https://www.jetbrains.com/webstorm/](https://www.jetbrains.com/webstorm/).
-  2. Cài đặt và mở WebStorm.
-
-### 3. **Sublime Text**
-
-Sublime Text là một trình soạn thảo mã nhẹ và mạnh mẽ, hỗ trợ nhiều ngôn ngữ lập trình, bao gồm JavaScript.
-
-- **Cài đặt:**
-  1. Tải về Sublime Text tại: [https://www.sublimetext.com/](https://www.sublimetext.com/).
-  2. Cài đặt và mở Sublime Text.
-
 ## Cách Chạy Code JavaScript
 
 Để chạy mã JavaScript, có thể làm theo các phương pháp sau:
