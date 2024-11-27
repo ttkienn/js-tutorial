@@ -1,6 +1,72 @@
+## Cài Đặt IDE
+
+IDE (Integrated Development Environment) là môi trường phát triển tích hợp, giúp viết mã nhanh chóng và dễ dàng hơn. Dưới đây là các IDE phổ biến cho JavaScript và cách cài đặt:
+
+### 1. **Visual Studio Code (VS Code)**
+
+Visual Studio Code (VS Code) là một trong những IDE phổ biến nhất cho JavaScript vì tính năng mạnh mẽ và hỗ trợ nhiều tiện ích mở rộng.
+
+- **Cài đặt:**
+  1. Tải về Visual Studio Code tại: [https://code.visualstudio.com/](https://code.visualstudio.com/).
+  2. Cài đặt và mở VS Code.
+
+- **Cài đặt tiện ích mở rộng (Extension) cho JavaScript:**
+  1. Mở VS Code và vào phần Extensions (hoặc nhấn `Ctrl+Shift+X`).
+  2. Tìm kiếm và cài đặt các tiện ích như `ESLint`, `Prettier`, hoặc `JavaScript (ES6)` để hỗ trợ viết mã dễ dàng hơn.
+
+### 2. **WebStorm**
+
+WebStorm là một IDE mạnh mẽ của JetBrains dành cho phát triển JavaScript, với nhiều tính năng hữu ích như gợi ý mã, kiểm tra lỗi và hỗ trợ framework.
+
+- **Cài đặt:**
+  1. Tải về WebStorm tại: [https://www.jetbrains.com/webstorm/](https://www.jetbrains.com/webstorm/).
+  2. Cài đặt và mở WebStorm.
+
+### 3. **Sublime Text**
+
+Sublime Text là một trình soạn thảo mã nhẹ và mạnh mẽ, hỗ trợ nhiều ngôn ngữ lập trình, bao gồm JavaScript.
+
+- **Cài đặt:**
+  1. Tải về Sublime Text tại: [https://www.sublimetext.com/](https://www.sublimetext.com/).
+  2. Cài đặt và mở Sublime Text.
+
+## Cách Chạy Code JavaScript
+
+Để chạy mã JavaScript, có thể làm theo các phương pháp sau:
+
+### 1. **Sử dụng Trình Duyệt (Browser)**
+
+JavaScript được hỗ trợ trực tiếp trong các trình duyệt web, vì vậy có thể chạy mã JavaScript ngay trên trình duyệt của mình.
+
+- **Cách thực hiện:**
+  1. Mở trình duyệt (Chrome, Firefox, Safari, v.v.).
+  2. Mở DevTools bằng cách nhấn `F12` hoặc `Ctrl+Shift+I`.
+  3. Chuyển đến tab **Console**.
+  4. Nhập mã JavaScript và nhấn `Enter` để chạy.
+
+### 2. **Sử dụng Node.js**
+
+Node.js cho phép chạy mã JavaScript ngoài trình duyệt, rất hữu ích khi phát triển ứng dụng server-side.
+
+- **Cài đặt Node.js:**
+  1. Tải và cài đặt Node.js tại: [https://nodejs.org/](https://nodejs.org/).
+  2. Sau khi cài đặt xong, mở Command Prompt (Windows) hoặc Terminal (Mac/Linux).
+  3. Kiểm tra cài đặt Node.js bằng cách gõ lệnh `node -v` để kiểm tra phiên bản Node.js.
+
+- **Chạy mã JavaScript:**
+  1. Mở một trình soạn thảo mã như VS Code.
+  2. Tạo một file JavaScript mới, ví dụ: `app.js`.
+  3. Viết mã JavaScript trong file này.
+  4. Mở Terminal hoặc Command Prompt và chạy lệnh:
+     ```
+     node app.js
+     ```
+
+---
+
 ## Mục Lục
 1. [Variables](https://github.com/ttkienn/js-tutorial/blob/main/variable.md)
-1. [Template Literals](https://github.com/ttkienn/js-tutorial/blob/main/template_literals.md)
+2. [Template Literals](https://github.com/ttkienn/js-tutorial/blob/main/template_literals.md)
 3. [Arrow Function](https://github.com/ttkienn/js-tutorial/blob/main/arrow_function.md)
 4. [Giá trị mặc định của tham số hàm](https://github.com/ttkienn/js-tutorial/blob/main/default_parametor.md)
 5. [Destructuring Object và Array](https://github.com/ttkienn/js-tutorial/blob/main/destructuring_object_and_array.md)
@@ -137,7 +203,9 @@ greet("Alice", 25); // Hello, Alice! You are 25 years old.
 
 2. **filter**: Lọc các phần tử của mảng thỏa mãn điều kiện.
    ```javascript
-   const numbers = [1, 2, 3, 4, 5];
+   const numbers = [1, 2, 3
+
+, 4, 5];
    const even = numbers.filter(num => num % 2 === 0);
    console.log(even); // [2, 4]
    ```
@@ -214,5 +282,3 @@ const age = 25;
 const person = { name, age };
 console.log(person); // { name: "Alice", age: 25 }
 ```
-
----
