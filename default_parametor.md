@@ -26,7 +26,6 @@ greet("Kien"); // Hello, Kien!
 ---
 
 ## **2. Kết hợp nhiều tham số**
-Bạn có thể đặt giá trị mặc định cho một số hoặc tất cả tham số trong hàm:
 
 ### Ví dụ:
 ```javascript
