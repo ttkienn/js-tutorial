@@ -1,7 +1,5 @@
 ## Cài Đặt IDE
 
-IDE (Integrated Development Environment) là môi trường phát triển tích hợp, giúp viết mã nhanh chóng và dễ dàng hơn. Dưới đây là các IDE phổ biến cho JavaScript và cách cài đặt:
-
 ### 1. **Visual Studio Code (VS Code)**
 
 Visual Studio Code (VS Code) là một trong những IDE phổ biến nhất cho JavaScript vì tính năng mạnh mẽ và hỗ trợ nhiều tiện ích mở rộng.
