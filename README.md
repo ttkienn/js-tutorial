@@ -1,5 +1,3 @@
----
-
 # Biến trong JavaScript
 
 Biến trong JavaScript là những không gian lưu trữ dữ liệu. Bạn có thể sử dụng chúng để giữ giá trị và thay đổi giá trị đó trong suốt chương trình của mình. JavaScript cung cấp 3 cách khai báo biến, mỗi cách có một đặc điểm riêng.
@@ -20,8 +18,6 @@ function testVar() {
 }
 testVar();
 ```
-
----
 
 ## **2. `let`**
 `let` là cách khai báo biến trong JavaScript hiện đại. Nó giúp khắc phục nhiều vấn đề của `var` và được khuyến khích sử dụng.
